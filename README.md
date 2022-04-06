@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-l-m&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akash-l-m&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+![java](https://user-images.githubusercontent.com/91725049/161993698-b391f69a-9b8f-438d-90c5-aaeabab791bf.png)
