@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <a href="URL_REDIRECT" target="blank">PortFolio<img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a><br> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-l-m&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a href="URL_REDIRECT" target="blank">PortFolio<img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a><br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-l-m&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br>
-
+<!--
 ![java](https://user-images.githubusercontent.com/91725049/161993698-b391f69a-9b8f-438d-90c5-aaeabab791bf.png)
+-->
