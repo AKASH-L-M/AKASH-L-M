@@ -35,5 +35,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-L-M&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AKASH-L-M&icon=9&color=9)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=AKASH-L-M&icon=9&color=9)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=AKASH-L-M&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AKASH-L-M&label=Profile%20Views&color=2&icon=5&pretty=true" />
+</a>
