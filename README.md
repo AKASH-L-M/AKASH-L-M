@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <!--
 ![java](https://user-images.githubusercontent.com/91725049/161993698-b391f69a-9b8f-438d-90c5-aaeabab791bf.png)
 -->
-## Github stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKASH-L-M)](https://github.com/DenverCoder1/github-readme-streak-stats)
+## Github stats <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKASH-L-M&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
