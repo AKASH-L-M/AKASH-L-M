@@ -1,6 +1,7 @@
 # Welcome to my GitHub Page
-### Hi there 👋
-
+### Hi there 👋<br>
+I'm Akash L M.
+- 🔭 I’m currently pursuing Computer Science and Engineering in NMAM Institute of Technology.<br>
 <!--
 **AKASH-L-M/AKASH-L-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌐Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-l-m-19baa820a/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akash_l_m/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-l-m-19baa820a/)) 
 
