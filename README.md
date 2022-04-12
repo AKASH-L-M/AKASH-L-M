@@ -2,6 +2,8 @@
 ### Hi there 👋<br>
 I'm Akash L M. 
 - 🔭 I’m currently pursuing Computer Science and Engineering in NMAM Institute of Technology.<br>
+- 🌱 I’m currently learning Core Java.
+  
 <!--
 **AKASH-L-M/AKASH-L-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
