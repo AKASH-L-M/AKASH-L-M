@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![java](https://user-images.githubusercontent.com/91725049/161993698-b391f69a-9b8f-438d-90c5-aaeabab791bf.png)
 -->
 
+
+
 ## 🌐Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-l-m-19baa820a/) 
@@ -41,4 +43,3 @@ Here are some ideas to get you started:
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=AKASH-L-M&icon=9&color=9)](https://visitcount.itsvg.in)-->
 [![](https://visitcount.itsvg.in/api?id=AKASH-L-M&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
