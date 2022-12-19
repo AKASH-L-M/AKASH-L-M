@@ -3,7 +3,7 @@
 I'm Akash L M. 
 - 🔭 I’m currently pursuing Computer Science and Engineering in NMAM Institute of Technology.<br>
 - 😄 Quick Learner and always ready to learn new Technologies.<br>
-- 🌱 I’m currently into IoT and Java.
+- 🌱 I like to work with IoT and Java.
 
   
 <!--
