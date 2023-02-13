@@ -5,10 +5,10 @@ I'm Akash L M.
 - 😄 Quick Learner and always ready to learn new Technologies.<br>
 - 🌱 I love to work with IoT and Java.
 
-Programming Languages known: JAVA, C, C++, Python
-JAVA: Client-Server Chat application
-Python: IoT Smart Home Automation Using Raspberry Pi.
-C: Door Operating System using C and OpenGL Library.
+<br> Programming Languages known: JAVA, C, C++, Python 
+<br> JAVA: Client-Server Chat application 
+<br> Python: IoT Smart Home Automation Using Raspberry Pi.
+<br> C: Door Operating System using C and OpenGL Library.
 
 
  Wish to work in Japan :)
