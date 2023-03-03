@@ -5,7 +5,7 @@ I'm Akash L M.
  😄 Quick Learner and always ready to learn new technologies.
  🌱 I like to work with Java, C++ and IoT Technology
 
-<u>AREAS OF EXPERTISE<\u>
+<u>AREAS OF EXPERTISE</u>
 Web Technology
 Internet of Things Technology
 Project Management
