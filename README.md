@@ -5,13 +5,13 @@ I'm Akash L M.
  😄 Quick Learner and always ready to learn new technologies.
  🌱 I like to work with Java, C++ and IoT Technology
 
-## AREAS OF EXPERTISE
+### AREAS OF EXPERTISE
 Web Technology
 Internet of Things Technology
 Project Management
 Data Structures
 
-## TECHNICAL SKILLS
+### TECHNICAL SKILLS
 Languages: Java, Python, C, CPP
 Frontend tools: HTML5, CSS, JavaScript, Bootstrap
 Backend tools: Python-Flask, PHP
@@ -19,7 +19,7 @@ Database: MySQL, MSSQL, MongoDB, Cassandra
 Microsoft office Tools: Excel, PowerPoint, Word
 Operating System: Raspberry Pi, Windows, Ubuntu
 
-## IDEs FAMILIAR WITH
+### IDEs FAMILIAR WITH
 JAVA – IntelliJ IDEA, Eclipse, Netbeans
 C++ – Code-Blocks, TurboC, Microsoft Visual C++ 
 C – CodeBlocks, TurboC
