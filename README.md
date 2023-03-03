@@ -1,31 +1,31 @@
 # Welcome to my GitHub Page
 ### Hi there 👋<br>
-I'm Akash L M. 
-🔭 I’m currently pursuing Computer Science and Engineering in NMAM Institute of Technology, Nitte.
- 😄 Quick Learner and always ready to learn new technologies.
- 🌱 I like to work with Java, C++ and IoT Technology
-
+<br>I'm Akash L M. 
+<br>🔭 I’m currently pursuing Computer Science and Engineering in NMAM Institute of Technology, Nitte.
+ <br>😄 Quick Learner and always ready to learn new technologies.
+ <br>🌱 I like to work with Java, C++ and IoT Technology
+<br>
 ### AREAS OF EXPERTISE
-Web Technology
-Internet of Things Technology
-Project Management
-Data Structures
-
+<br> Web Technology
+<br> Internet of Things Technology
+<br> Project Management
+<br> Data Structures
+<br>
 ### TECHNICAL SKILLS
-Languages: Java, Python, C, CPP
-Frontend tools: HTML5, CSS, JavaScript, Bootstrap
-Backend tools: Python-Flask, PHP
-Database: MySQL, MSSQL, MongoDB, Cassandra
-Microsoft office Tools: Excel, PowerPoint, Word
-Operating System: Raspberry Pi, Windows, Ubuntu
-
+<br> Languages: Java, Python, C, CPP
+<br> Frontend tools: HTML5, CSS, JavaScript, Bootstrap
+<br> Backend tools: Python-Flask, PHP
+<br> Database: MySQL, MSSQL, MongoDB, Cassandra
+<br> Microsoft office Tools: Excel, PowerPoint, Word
+<br> Operating System: Raspberry Pi, Windows, Ubuntu
+<br>
 ### IDEs FAMILIAR WITH
-JAVA – IntelliJ IDEA, Eclipse, Netbeans
-C++ – Code-Blocks, TurboC, Microsoft Visual C++ 
-C – CodeBlocks, TurboC
-Python – Jupyter notebook, Spyder
-Visual Studio (For Web Development)
-
+<br> JAVA – IntelliJ IDEA, Eclipse, Netbeans
+<br> C++ – Code-Blocks, TurboC, Microsoft Visual C++ 
+<br> C – CodeBlocks, TurboC
+<br> Python – Jupyter notebook, Spyder
+<br> Visual Studio (For Web Development)
+<br>
  Wish to work in Japan :)
 <!--
 
