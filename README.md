@@ -1,15 +1,30 @@
 # Welcome to my GitHub Page
 ### Hi there 👋<br>
 I'm Akash L M. 
-- 🔭 I’m currently pursuing Computer Science and Engineering in NMAM Institute of Technology.<br>
-- 😄 Quick Learner and always ready to learn new Technologies.<br>
-- 🌱 I love to work with IoT and Java.
+🔭 I’m currently pursuing Computer Science and Engineering in NMAM Institute of Technology, Nitte.
+ 😄 Quick Learner and always ready to learn new technologies.
+ 🌱 I like to work with Java, C++ and IoT Technology
 
-<br> Programming Languages known: JAVA, C, C++, Python 
-<br> JAVA: Client-Server Chat application 
-<br> Python: IoT Smart Home Automation Using Raspberry Pi.
-<br> C: Door Operating System using C and OpenGL Library.
+<u>AREAS OF EXPERTISE<\u>
+Web Technology
+Internet of Things Technology
+Project Management
+Data Structures
 
+TECHNICAL SKILLS
+Languages: Java, Python, C, CPP
+Frontend tools: HTML5, CSS, JavaScript, Bootstrap
+Backend tools: Python-Flask, PHP
+Database: MySQL, MSSQL, MongoDB, Cassandra
+Microsoft office Tools: Excel, PowerPoint, Word
+Operating System: Raspberry Pi, Windows, Ubuntu
+
+IDEs FAMILIAR WITH
+JAVA – IntelliJ IDEA, Eclipse, Netbeans
+C++ – Code-Blocks, TurboC, Microsoft Visual C++ 
+C – CodeBlocks, TurboC
+Python – Jupyter notebook, Spyder
+Visual Studio (For Web Development)
 
  Wish to work in Japan :)
 <!--
