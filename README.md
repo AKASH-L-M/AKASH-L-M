@@ -5,13 +5,23 @@
  <br>😄 Quick Learner and always ready to learn new technologies.
  <br>🌱 I like to work with Java, C++ and IoT Technology
 <br>
-### AREAS OF EXPERTISE
+<br>
+<hr/>
+Upcoming Employee in NIDEC READ Advance Technology Corporation.
+<br> Division: Engineering Development
+<br> Role: Software Developer
+<hr/>
+
+>>> AREAS OF EXPERTISE
 <br> Web Technology
 <br> Internet of Things Technology
 <br> Project Management
 <br> Data Structures
 <br>
-### TECHNICAL SKILLS
+
+<hr/>
+
+>>> TECHNICAL SKILLS 
 <br> Languages: Java, Python, C, CPP
 <br> Frontend tools: HTML5, CSS, JavaScript, Bootstrap
 <br> Backend tools: Python-Flask, PHP
@@ -19,14 +29,18 @@
 <br> Microsoft office Tools: Excel, PowerPoint, Word
 <br> Operating System: Raspberry Pi, Windows, Ubuntu
 <br>
-### IDEs FAMILIAR WITH
+
+<hr/>
+
+>>> IDEs FAMILIAR WITH
 <br> JAVA – IntelliJ IDEA, Eclipse, Netbeans
 <br> C++ – Code-Blocks, TurboC, Microsoft Visual C++ 
 <br> C – CodeBlocks, TurboC
 <br> Python – Jupyter notebook, Spyder
 <br> Visual Studio (For Web Development)
 <br>
- Wish to work in Japan :)
+
+ <b> Wish to work in Japan :) <b/>
 <!--
 
 Here are some ideas to get you started:
