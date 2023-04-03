@@ -12,7 +12,7 @@ Upcoming Employee in NIDEC READ Advance Technology Corporation.
 <br> Role: Software Developer
 <hr/>
 
->>> AREAS OF EXPERTISE
+> AREAS OF EXPERTISE
 <br> Web Technology
 <br> Internet of Things Technology
 <br> Project Management
@@ -21,7 +21,7 @@ Upcoming Employee in NIDEC READ Advance Technology Corporation.
 
 <hr/>
 
->>> TECHNICAL SKILLS 
+> TECHNICAL SKILLS 
 <br> Languages: Java, Python, C, CPP
 <br> Frontend tools: HTML5, CSS, JavaScript, Bootstrap
 <br> Backend tools: Python-Flask, PHP
@@ -32,7 +32,7 @@ Upcoming Employee in NIDEC READ Advance Technology Corporation.
 
 <hr/>
 
->>> IDEs FAMILIAR WITH
+> IDEs FAMILIAR WITH
 <br> JAVA – IntelliJ IDEA, Eclipse, Netbeans
 <br> C++ – Code-Blocks, TurboC, Microsoft Visual C++ 
 <br> C – CodeBlocks, TurboC
