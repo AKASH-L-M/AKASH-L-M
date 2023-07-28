@@ -79,3 +79,6 @@ Here are some ideas to get you started:
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=AKASH-L-M&icon=9&color=9)](https://visitcount.itsvg.in)-->
 [![](https://visitcount.itsvg.in/api?id=AKASH-L-M&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=home&label=Website%20views&color=8&icon=0&pretty=false" />
+</a>
