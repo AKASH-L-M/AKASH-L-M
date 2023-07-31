@@ -1,10 +1,9 @@
-# Welcome to my GitHub Page
-### Hi there 👋<br>
-<br>I'm Akash L M. 
-<br>🔭 I’m currently pursuing Computer Science and Engineering in NMAM Institute of Technology, Nitte.
- <br>😄 Quick Learner and always ready to learn new technologies.
- <br>🌱 I like to work with Java, C++ and IoT Technology
-<br>
+# Welcome to Akash L M's GitHub Page
+### Hi there 👋
+
+I'm Akash L M, a Software Developer currently working at NIDEC READ Advance Technology Corporation under the Engineering Development division. I completed my Computer Science and Engineering degree from NMAM Institute of Technology, Nitte.
+
+🔭 I have a strong passion for learning and I'm always eager to explore new technologies.
 <br>
 <hr/>
 Upcoming Employee in NIDEC READ Advance Technology Corporation.
@@ -17,7 +16,7 @@ Upcoming Employee in NIDEC READ Advance Technology Corporation.
 <br> Internet of Things Technology
 <br> Project Management
 <br> Data Structures
-<br>
+<br> Machine Learning
 
 <hr/>
 
@@ -75,6 +74,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=AKASH-L-M&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AKASH-L-M&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-L-M&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+Thank you for visiting my GitHub page! Feel free to explore my repositories and reach out to me on social media. I'm always excited to connect with fellow developers and enthusiasts. 😄
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=AKASH-L-M&icon=9&color=9)](https://visitcount.itsvg.in)-->
