@@ -7,9 +7,6 @@ I completed my Computer Science and Engineering degree from NMAM Institute of Te
 🔭 I have a strong passion for learning and I'm always eager to explore new technologies.
 <br>
 <hr/>
-Upcoming Employee in NIDEC READ Advance Technology Corporation.
-<br> Division: Engineering Development
-<br> Role: Software Developer
 <hr/>
 
 > AREAS OF EXPERTISE
