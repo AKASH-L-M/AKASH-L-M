@@ -1,7 +1,8 @@
 # Welcome to Akash L M's GitHub Page
 ### Hi there 👋
 
-I'm Akash L M, a Software Developer currently working at NIDEC READ Advance Technology Corporation under the Engineering Development division. I completed my Computer Science and Engineering degree from NMAM Institute of Technology, Nitte.
+I'm Akash L M, a Software Developer currently working at NIDEC READ Advance Technology Corporation under the Engineering Development division. 
+I completed my Computer Science and Engineering degree from NMAM Institute of Technology, Nitte.
 
 🔭 I have a strong passion for learning and I'm always eager to explore new technologies.
 <br>
