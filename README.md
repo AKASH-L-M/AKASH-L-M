@@ -36,7 +36,8 @@ I completed my Computer Science and Engineering degree from NMAM Institute of Te
 <br> Python – Jupyter notebook, Spyder
 <br> Visual Studio (For Web Development)
 <br>
-
+<hr/>
+<hr/>
  <b> Wish to work in Japan :) <b/>
 <!--
 
