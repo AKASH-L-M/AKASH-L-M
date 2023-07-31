@@ -25,8 +25,6 @@ I completed my Computer Science and Engineering degree from NMAM Institute of Te
 <br> Database: MySQL, MSSQL, MongoDB, Cassandra
 <br> Microsoft office Tools: Excel, PowerPoint, Word
 <br> Operating System: Raspberry Pi, Windows, Ubuntu
-<br>
-
 <hr/>
 
 > IDEs FAMILIAR WITH
@@ -35,7 +33,6 @@ I completed my Computer Science and Engineering degree from NMAM Institute of Te
 <br> C – CodeBlocks, TurboC
 <br> Python – Jupyter notebook, Spyder
 <br> Visual Studio (For Web Development)
-<br>
 <hr/>
 <hr/>
  <b> Wish to work in Japan :) <b/>
