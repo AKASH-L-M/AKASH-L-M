@@ -32,7 +32,6 @@ I completed my Computer Science and Engineering degree from **NMAM Institute of 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend Tools**:  
-![Flask](https://img.shields.io/badge/Flask-%000000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 **Databases**:  
