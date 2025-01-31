@@ -1,82 +1,96 @@
-# Welcome to Akash L M's GitHub Page
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akash L M - GitHub Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            padding: 20px;
+            background: #1f1f1f;
+        }
+        h1 {
+            color: #00aaff;
+        }
+        .section {
+            margin: 20px auto;
+            max-width: 800px;
+            padding: 20px;
+            background: #222;
+            border-radius: 10px;
+        }
+        hr {
+            border: 1px solid #00aaff;
+        }
+        .icons a {
+            color: #00aaff;
+            font-size: 24px;
+            margin: 10px;
+            text-decoration: none;
+        }
+        .tech-stack img {
+            width: 50px;
+            margin: 10px;
+        }
+        .stats img {
+            width: 100%;
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Akash L M's GitHub Page</h1>
+        <p>Software Developer | Tech Enthusiast</p>
+    </header>
+    
+    <div class="section">
+        <h2>Areas of Expertise</h2>
+        <hr>
+        <p>Web Technology | IoT | Project Management | Data Structures | Machine Learning</p>
+    </div>
 
-I'm Akash L M, a Software Developer.
-I completed my Computer Science and Engineering degree from NMAM Institute of Technology, Nitte.
+    <div class="section">
+        <h2>Technical Skills</h2>
+        <hr>
+        <p><strong>Languages:</strong> Java, Python, C, C++</p>
+        <p><strong>Frontend:</strong> HTML5, CSS, JavaScript, Bootstrap</p>
+        <p><strong>Backend:</strong> Python-Flask, PHP</p>
+        <p><strong>Database:</strong> MySQL, MSSQL, MongoDB, Cassandra</p>
+        <p><strong>Operating Systems:</strong> Raspberry Pi, Windows, Ubuntu</p>
+    </div>
 
-🔭 I have a strong passion for learning and I'm always eager to explore new technologies.
-<br>
-<hr/>
-<hr/>
+    <div class="section icons">
+        <h2>Connect with Me</h2>
+        <hr>
+        <a href="https://linkedin.com/in/akash-l-m" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <a href="https://instagram.com/akash_l_m" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://twitter.com/akash-l-m" target="_blank"><i class="fab fa-twitter"></i></a>
+    </div>
 
-> AREAS OF EXPERTISE
-<br> Web Technology
-<br> Internet of Things Technology
-<br> Project Management
-<br> Data Structures
-<br> Machine Learning
+    <div class="section tech-stack">
+        <h2>Tech Stack</h2>
+        <hr>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+        <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    </div>
 
-<hr/>
-
-> TECHNICAL SKILLS 
-<br> Languages: Java, Python, C, CPP
-<br> Frontend tools: HTML5, CSS, JavaScript, Bootstrap
-<br> Backend tools: Python-Flask, PHP
-<br> Database: MySQL, MSSQL, MongoDB, Cassandra
-<br> Microsoft office Tools: Excel, PowerPoint, Word
-<br> Operating System: Raspberry Pi, Windows, Ubuntu
-<hr/>
-
-> IDEs FAMILIAR WITH
-<br> JAVA – IntelliJ IDEA, Eclipse, Netbeans
-<br> C++ – Code-Blocks, TurboC, Microsoft Visual C++ 
-<br> C – CodeBlocks, TurboC
-<br> Python – Jupyter notebook, Spyder
-<br> Visual Studio (For Web Development)
-<hr/>
-<hr/>
- <b> Wish to work in Japan :) <b/>
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
-<!-- <a href="URL_REDIRECT" target="blank">PortFolio<img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a><br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-l-m&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<br>
-<!--
-![java](https://user-images.githubusercontent.com/91725049/161993698-b391f69a-9b8f-438d-90c5-aaeabab791bf.png)
--->
-
-
-
-## 🌐Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-l-m-19baa820a/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akash_l_m/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-l-m-19baa820a/)) 
-
-# 💻Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=AKASH-L-M&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AKASH-L-M&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-L-M&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-Thank you for visiting my GitHub page! Feel free to explore my repositories and reach out to me on social media. I'm always excited to connect with fellow developers and enthusiasts. 😄
-
----
-<!-- [![](https://visitcount.itsvg.in/api?id=AKASH-L-M&icon=9&color=9)](https://visitcount.itsvg.in)-->
-[![](https://visitcount.itsvg.in/api?id=AKASH-L-M&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=home&label=Website%20views&color=8&icon=0&pretty=false" />
-</a>
+    <div class="section stats">
+        <h2>GitHub Stats</h2>
+        <hr>
+        <img src="https://github-readme-stats.vercel.app/api?username=AKASH-L-M&theme=highcontrast&hide_border=false" alt="GitHub Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH-L-M&theme=highcontrast&hide_border=false" alt="GitHub Streak">
+    </div>
+</body>
+</html>
